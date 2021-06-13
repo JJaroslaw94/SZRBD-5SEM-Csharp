@@ -14,7 +14,7 @@ namespace SZRBD_desk
     public partial class Form1 : Form
     {
         SqlDataAdapter sda;
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;Integrated Security=True;AttachDbFilename=|DataDirectory|\BazaDanych.mdf");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;Integrated Security=True;AttachDbFilename=|DataDirectory|\BazaDanych1.mdf");
 
         
 
